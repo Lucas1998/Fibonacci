@@ -8,4 +8,4 @@ def FuncionFibo (num):
   
 if __name__=="__main__":
     num=int(input("introducir numero"))
-    print("La Funcion de Fibonacci es %d" %num)
+    print(FuncionFibo(num)
