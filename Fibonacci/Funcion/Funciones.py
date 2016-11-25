@@ -1,8 +1,8 @@
 def FuncionFibo (num):
     if num==1:
-       return 1
+        return 1
     if num==0:
-       return 0
+        return 0
     else:
         return FuncionFibo(num-1) + FuncionFibo(num-2)     
   
